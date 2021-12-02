@@ -1,2 +1,17 @@
-# freetv
-free
+#EXTM3U
+#EXTINF:-1,Bein 1HDvip
+http://150.95.25.221:8000/TPE%201%20HD%20?u=covid19:p=4564787887
+#EXTINF:-1,Bein 2HDvip
+http://150.95.25.221:8000/Skynet%20sports%20HD1?u=covid19:p=4564787887
+#EXTINF:-1,Live 1 Feed
+http://150.95.25.221:8000/Live%201%20Feed?u=covid19:p=4564787887
+#EXTINF:-1,Live 2 Feed
+http://150.95.25.221:8000/Live%202%20Feed?u=covid19:p=4564787887
+#EXTINF:-1,Live 3 Feed
+http://150.95.25.221:8000/Live%203%20Feed?u=covid19:p=4564787887
+#EXTINF:-1,Live 4 Feed
+http://150.95.25.221:8000/Live%204%20Feed?u=covid19:p=4564787887
+#EXTINF:-1,SpoTV1
+http://150.95.25.221:8000/SpoTV1?u=covid19:p=4564787887
+#EXTINF:-1,SpoTV2
+http://150.95.25.221:8000/SpoTV2?u=covid19:p=4564787887
